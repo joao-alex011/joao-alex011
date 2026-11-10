@@ -1,6 +1,5 @@
 # João Alexandre Guilhermes e Silva
-Olá!
-Sou estudante de ciências da computação
+Olá sou João Alexandre, estudante do 2º período de Ciência da Computação, movido pelo desafio de transformar problemas complexos em soluções lógicas e eficientes. Tenho consolidado uma base sólida em programação e desenvolvimento web nativo (C, C++, HTML5, CSS3 e JavaScript), além de forte experiência prática em modelagem de bancos de dados relacionais (MySQL e PostgreSQL). Atualmente, estou direcionando meus estudos práticos para a área de Dados (Python e SQL), com o objetivo de unir análise técnica e visão de negócios. Meu foco de longo prazo é construir uma carreira sólida em Inteligência Artificial e, futuramente, ingressar em um mestrado na área através da bolsa MEXT no Japão.
 ## Tecnologias
 - HTML
 - CSS
@@ -8,8 +7,10 @@ Sou estudante de ciências da computação
 - Python
 - SQL
 - GML
+- C
+- C++
 ## Projetos
-Jogo indie em desenvolvimento feito em gamemaker
+
 ## Contato
 LinkedIn:https://www.linkedin.com/in/jo%C3%A3o-alexandre-guilhermes-e-silva-a66a48429/
 
