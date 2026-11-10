@@ -10,8 +10,7 @@ Olá sou João Alexandre, estudante do 2º período de Ciência da Computação,
 - C
 - C++
 ## Projetos
-
+Gym Management Database: Modelagem completa de banco de dados (MER, esquema relacional e dicionário) para um sistema de gestão de academia e personal trainers.
+UrbanJungle Helper: Aplicação web client-side focada no rastreamento e cuidados de plantas domésticas, utilizando LocalStorage para persistência de dados.
 ## Contato
 LinkedIn:https://www.linkedin.com/in/jo%C3%A3o-alexandre-guilhermes-e-silva-a66a48429/
-
-
